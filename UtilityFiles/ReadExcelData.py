@@ -2,6 +2,7 @@ import openpyxl
 
 
 class ReadTD:
+
     @staticmethod
     def getTestData(rowIndex,colIndex):
         workbook=openpyxl.load_workbook(".\\TestData\\Data.xlsx")

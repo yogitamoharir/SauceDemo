@@ -28,7 +28,7 @@ def browser(request):
     return request.config.getoption("--browser")
 
 
-# step1: set default value of browser
+# step1: set default value of browser.
 def pytest_addoption(parser):
     parser.addoption("--browser", action="store", default="chrome",
                      help="provide browser name - chrome, firefox, edge, etc")

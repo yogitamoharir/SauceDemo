@@ -33,7 +33,7 @@ class SwagLabHomePage:
         TotalPrice=0
 
         for i in allProductPrice:
-            s1=i.text      #   $32.5  -> convert WebElement to Text.
+            s1=i.text      #   $32.5  -> convert WebElement to Text
             s1=s1[1:]      #    32.5 -> String   -> remove char from string
             s1=float(s1)   #    32.5 -> float    -> covert String to float
 

@@ -10,7 +10,7 @@ class swagLoginPage:
     butLoginXpath="//*[@id='login-button']"
     errorMsgXpath="//h3[@data-test='error']"
 
-    #2: initialization webdriver object globally
+    #2: initialization webdriver object globaly
     def __init__(self,driver):
         self.driver=driver
 
