@@ -1,0 +1,12 @@
+2025-05-22 14:58:27: INFO: ----Test Case execution started-------
+2025-05-22 14:58:27: INFO: ----test_TC1_loginToApp_titleValidation-------
+2025-05-22 14:58:27: INFO: ----Passed- Act & Exp Title match----
+2025-05-22 14:58:32: INFO: ----Test Case execution started-------
+2025-05-22 14:58:32: INFO: ----test_TC2_Verify_ProductName-------
+2025-05-22 14:58:35: INFO: ----Passed- Act & Exp product Name match----
+2025-05-22 14:58:38: INFO: ----Passed- Act & Exp product Price match----
+2025-05-22 14:58:40: INFO: ----Passed- Act & Exp product Size match----
+2025-05-22 14:58:43: INFO: ----test_TC5_verifyProductAllPrice-------
+2025-05-22 14:58:52: INFO: ----Passed- Act & Exp Total Price match----
+2025-05-22 14:59:39: INFO: ----test_TC5_verifyProductAllPrice-------
+2025-05-22 14:59:40: INFO: ----Passed- Act & Exp Total Price match----
