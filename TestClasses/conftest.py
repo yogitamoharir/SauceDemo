@@ -20,7 +20,7 @@ def setup(browser):
     return driver
 
 # Step2: use to get browser name from command - line & pass value browser to
-# openbrowser fixture
+# openbrowser fixture.
 
 
 @pytest.fixture()
